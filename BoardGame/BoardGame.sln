@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame", "BoardGame\BoardGame.csproj", "{CC803C92-DB91-4B60-AD8D-454A2B95A086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC803C92-DB91-4B60-AD8D-454A2B95A086}.Debug|x86.ActiveCfg = Debug|x86
+		{CC803C92-DB91-4B60-AD8D-454A2B95A086}.Debug|x86.Build.0 = Debug|x86
+		{CC803C92-DB91-4B60-AD8D-454A2B95A086}.Release|x86.ActiveCfg = Release|x86
+		{CC803C92-DB91-4B60-AD8D-454A2B95A086}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
