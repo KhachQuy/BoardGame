@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\Cards\ActionCardBase.cs" />
+    <Compile Include="Base\Cards\CardBase.cs" />
+    <Compile Include="Base\Cards\TreasureCardBase.cs" />
+    <Compile Include="Base\Cards\VictoryCardBase.cs" />
+    <Compile Include="Base\Interfaces\IActionCard.cs" />
+    <Compile Include="Base\Interfaces\ITreasureCard.cs" />
+    <Compile Include="Base\Interfaces\IVictoryCard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
